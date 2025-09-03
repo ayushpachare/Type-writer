@@ -1,0 +1,18 @@
+
+h1{
+    text-align: center;
+}
+
+p{
+    border: 1px black solid;
+    height: 15rem;
+    margin: 2rem 5rem;
+    overflow: auto;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    padding: 1rem;
+}
+
+input{
+    margin-left: 6rem;
+}
